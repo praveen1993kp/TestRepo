@@ -16,7 +16,7 @@ public class hash {
 	
 	
 	{
-	 
+	  //command added for git learning
 		String[] array = {"a","b","c","b","c","b"};
 		
 		
