@@ -6,5 +6,6 @@ public class futureRefClass {
 	{
 		System.out.println("a");
 	}
+	
 
 }
